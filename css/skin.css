@@ -295,6 +295,7 @@ input {
 }
 
 .new-font {
+	padding-top: 5px;
 	font-family: monospace, serif;
 	font-size: 14px;
 	

@@ -17,7 +17,6 @@ function predictOnLoad() {
 	setTimeout(simulateClick.bind(null,'predict-button'), 500);
 };
 
-
 $("#image-selector").change(function () {
 	let reader = new FileReader();
 	reader.onload = function () {
@@ -50,8 +49,8 @@ let model;
  //      model = await tf.loadModel(data);
 	// });
 	
-	model =  await tf.loadModel('https://kaanbursa.github.io/skincancer/final_model_kaggle_version1/model.json');
-	$("#selected-image").attr("src", "http://skin.test.woza.work/assets/samplepic.jpg")
+	model =  await tf.loadModel('https://kaanbursa.github.io/skincancer/model/model.json');
+	$("#selected-image").attr("src", "https://kaanbursa.github.io/skincancer/assets/doctor.jpg")
 	
 	
 	

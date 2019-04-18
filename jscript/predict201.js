@@ -58,7 +58,7 @@ function predictOnLoad() {
 };
 
 
-
+if (sessionStorage.getItem("is_reloaded")) alert('Reloaded!');
 
 $("#predict-button").click(async function () {
 	
