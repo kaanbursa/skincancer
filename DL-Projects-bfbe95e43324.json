@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dl-projects-216907",
+  "private_key_id": "bfbe95e4332491ebc6602bf8d67431fb5f02b17e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWLU6DPsjjwJqs\n5YfkFuuq8I+MKXwpLvxUyOlnB3hONJXRO0UdYMil9B/Fu4KiEosJsfRTOzUMx/OM\ns/THPQO64zdzTDh+ok9UcuacVu+R4cL5OyUfenYGTPiDckUDkuHp4BnIBq9SR5Yr\nNb593f+tNvRvm1LWFuXFOrJLale8OOr1DC++uOyOvev1iMdD9Dv9NmvdVpgCkbRO\nxGP1GLQbfdsj1WivHBRGNavKaj9qFns3sTEO/B0gFXb8KawuewN6O1eYfMQV/gYZ\nZHWloziZ9kWi0CFGzhiveP4K0XLdSqHjVe+YxAMvuNm2DrhcrfJgn7E5F5hYsx7c\nSzZowEzRAgMBAAECggEAFLU3uJ/a645lRh9BNs/yhEoTDwG50/+LfSUZ0BDcVG9o\nJt08rvz7GXSTl9or5MC3Ob4/ecapN+2jQjDqE1N2Z1ztsROnCLNnySn82xPawPeb\nkt5hlfwQqkZJ5uem/ZP3jNXSmFDxJZrvTYk6PFA5FsXP93SEm1eGar3knD8RcYy/\n/mcyxnKaEOXr/P8mIYYxwE4e3DaOrDvNX6FItgDB2d4Ii7rE5OfwTj9IWcW2xNlM\nm9T+a3Bd2h1uEYZ/s0B5V36XX4UUwVLhZURBVuxc2K7uRuUPMjgWVZGhGp+effgh\nUuxeyCtYd7RDzX+b5y2alVa4YPTAAxTzmlUQSnNnOQKBgQDs+kkZeNAhHmzTEfIl\nSNPKyTeToRq/xtQPK7oOcJLKAwukrOn66KvYCAo570RSwm1+Hm53mYjRfzlX+AKv\nw6cgbssviF40jSezyGRtHOyf5rPt3zLJ6W2EHEbekQyGTPg5S0w0PlP2vGabOZgn\nfHxwFZpyOUAY+14yvdJbfRG3/QKBgQDnXnvaZKOgvCt9Fh/UMTXX8UdWWm/OBTiK\nReZiO3rKNtUOlAkzAUn8w/50Vqajz0U4cTWLKYFiMWcXucWHsGk+vFYAljta+hNH\nDw9SHfIi7g0oHk0KeH63nc1v4iLFRTY3leOQoLW24SQ/WBsfYM8pp+j06tQBDt/v\nKGdqzsRuZQKBgQDIU5gB4WBH7vldwFjrbdIkJc9GjDUZk1HmdTd2R3G/Na3dCpNN\nGO1T1RAYA4zFTTjUGZOWpQLE3oCyPaS/wmyAfUhkKSpB0GWUlD1ZA8+AKL1Hw5ui\nliKPQHwkX4ev7FcVz/JeY6YE+STf6WMXViO3eHu0PXNS6wOpb0/pKSQWXQKBgQCj\nnGTo4xHysB3wrpyDaOkycySHJBy8C2UYIqXwAS+rn2q6jGSU9OxlGhPuIPhmDkRc\nzXGXnxonXdgRJwVQFqfV/Uiz0YjXpM/NCBFFeHepy7zyCbthFCRHpAeKftcnuPHG\nDPCHbZ4SXNNNF/jWD5dvVZWe3BBfTy176Y54MQ8nIQKBgCweg0KzN6hapW7ajOfb\nDYnXFKdtzSfS39IdcjE6V2r+peJ1l+j5K0s0Ek4PvMn4DwXtVLEwsg9w+7cd/NDO\n1bdHJQMFDuUC96QCxZKdV0+ELlBegntnNsrK5vaDcitRmEm0gc6ZynqgdydD9Zwh\n9vnq9+T8pxrWnTztcJgRu0ct\n-----END PRIVATE KEY-----\n",
+  "client_email": "skincancer@dl-projects-216907.iam.gserviceaccount.com",
+  "client_id": "105678590980471961246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skincancer%40dl-projects-216907.iam.gserviceaccount.com"
+}
