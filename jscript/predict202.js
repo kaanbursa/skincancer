@@ -44,8 +44,13 @@ $("#image-selector").change(function () {
 
 let model;
 (async function () {
+
+	// let m;
+	// $.getJSON("https://kaanbursa.github.io/skincancer/final_model_kaggle_version1/model.json", function(data){
+ //      model = await tf.loadModel(data);
+	// });
 	
-	model = await tf.loadModel('https://github.com/kaanbursa/skincancer/blob/master/final_model_kaggle_version1/model.json');
+	model =  await tf.loadModel('https://kaanbursa.github.io/skincancer/final_model_kaggle_version1/model.json');
 	$("#selected-image").attr("src", "http://skin.test.woza.work/assets/samplepic.jpg")
 	
 	
