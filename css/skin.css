@@ -30,6 +30,7 @@ input {
 .title {
 	padding-top: 30px;
 	padding-bottom: 30px;
+	
 }
 
 .hide {
@@ -83,18 +84,18 @@ li {
 
 
 .logo h1 {
-	font-size: 50px;
-	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	font-family: Helvetica, sans-serif;
 	line-height: 1.1;
 }
 
 .logo1 {
-	font-family: 'Oswald', sans-serif;
+	font-family: Helvetica, sans-serif;font-family: 'Oswald', sans-serif;
 }
 
 
 .header-style {
-	height: 50px;
+	height: 40px;
 	background-color: #0375b4; /*#303030;*/
 }
 
@@ -189,8 +190,12 @@ input {
 
 
 
+.zoom:hover {
+  transform: scale(1.01); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 .logo h1 {
-	font-size: 40px;
+	font-size: 30px;
 }
 
 .adjust-image {
@@ -273,6 +278,7 @@ input {
 }
 
 .space-letters {
+	color: #DB7F67;
 	letter-spacing: .03em;
 }
 
