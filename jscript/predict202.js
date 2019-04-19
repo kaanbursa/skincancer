@@ -49,7 +49,7 @@ let model;
  //      model = await tf.loadModel(data);
 	// });
 	
-	model =  await tf.loadModel('https://kaanbursa.github.io/skincancer/model/model.json');
+	model =  await tf.loadModel('https://kaanbursa.github.io/skincancer/model/model1.json');
 	$("#selected-image").attr("src", "https://kaanbursa.github.io/skincancer/assets/doctor.jpg")
 	
 	
